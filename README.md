@@ -1,3 +1,11 @@
-# Stss
+# Subject Topic Selecting System - A Java Web Application
 
-Subject topic select system, built with Spring, Struts and hibernate to realize a MVC template web application.
+An information management system which implements the functionality of subject topic selecting for college students. This application was first finished in 2016. 
+
+# Tech Stack Intro
+
+Integration of Spring + Struts + Hibernate. Struts is a web application framework, Spring is an enterprise application framework, and Hibernate is an ORM (Object–relational mapping) framework. In this project, Hibernate is working at the database layer, both Struts and Spring can work at the web layer.  DB: MySql
+
+# Lessons Learned
+
+* Understanding and practice of MVC Java Web application
