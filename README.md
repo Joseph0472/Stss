@@ -4,8 +4,14 @@ An information management system which implements the functionality of subject t
 
 # Tech Stack Intro
 
-Integration of Spring + Struts + Hibernate. Struts is a web application framework, Spring is an enterprise application framework, and Hibernate is an ORM (Object–relational mapping) framework. In this project, Hibernate is working at the database layer, both Struts and Spring can work at the web layer.  DB: MySql
+Integration of Spring + Struts + Hibernate. Struts is a web application framework, Spring is an enterprise application framework, and Hibernate is an ORM (Object–relational mapping) framework. In this project, Hibernate is working at the database layer, both Struts and Spring can work at the web layer.
+
+* Spring
+* Struts
+* Hibernate
+* Front end: Jsp
+* Database: Mysql
 
 # Lessons Learned
 
-* Understanding and practice of MVC Java Web application
+* The understanding and practice of MVC Java Web application
