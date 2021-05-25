@@ -13,4 +13,6 @@ Integration of Spring + Struts + Hibernate. Struts is a web application framewor
 
 # Lessons Learned
 
-* The understanding and practice of MVC Java Web application
+* The understanding and practice of MVC Java web application
+* Working with multiple Java web frameworks
+* Proficiency in the use of basic java data structures
