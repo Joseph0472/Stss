@@ -1,6 +1,6 @@
-# Subject Topic Selecting System - A Java Web Application
+# Subject Topic Selecting System 
 
-An information management system which implements the functionality of subject topic selecting for college students. This application was first finished in 2016. 
+An information management system which implements the functionality of subject topic selecting for college students. This Java web application was first finished in 2016. 
 
 # Tech Stack Intro
 
