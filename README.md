@@ -11,7 +11,7 @@ Integration of Spring + Struts + Hibernate. Struts is a web application framewor
 * Front end: Jsp
 * Database: Mysql
 
-# Lessons Learned
+## Takeaways
 
 * The understanding and practice of MVC Java web application
 * Working with multiple Java web frameworks
